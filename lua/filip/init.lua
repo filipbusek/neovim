@@ -1,0 +1,5 @@
+require("filip.packer")
+require("filip.vimstuff")
+require("filip.keybindings")
+require("filip.treesitter")
+require("filip.lsp_config")
